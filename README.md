@@ -29,7 +29,7 @@ Sistem ini dibuat untuk:
 
 ---
 
-## 🔄 **Alur Kerja Sistem**
+## Alur Kerja Sistem
 
 1. **Inisialisasi (setup)**
 
@@ -60,7 +60,7 @@ Sistem ini dibuat untuk:
 
 ---
 
-### ✅ **Jika Perawat Menekan Tombol:**
+### Jika Perawat Menekan Tombol:
 
 * Dicek apakah tombol perawat ditekan dan `nurseResponded == false`.
 * Jika ya:
